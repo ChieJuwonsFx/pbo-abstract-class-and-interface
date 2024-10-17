@@ -1,0 +1,14 @@
+C:\ChieJuwonsFx\VSC IT\Tugas Kuliah\PBO\pbo-new-fix\bin\Debug\net8.0\pbo-new-fix.exe
+C:\ChieJuwonsFx\VSC IT\Tugas Kuliah\PBO\pbo-new-fix\bin\Debug\net8.0\pbo-new-fix.deps.json
+C:\ChieJuwonsFx\VSC IT\Tugas Kuliah\PBO\pbo-new-fix\bin\Debug\net8.0\pbo-new-fix.runtimeconfig.json
+C:\ChieJuwonsFx\VSC IT\Tugas Kuliah\PBO\pbo-new-fix\bin\Debug\net8.0\pbo-new-fix.dll
+C:\ChieJuwonsFx\VSC IT\Tugas Kuliah\PBO\pbo-new-fix\bin\Debug\net8.0\pbo-new-fix.pdb
+C:\ChieJuwonsFx\VSC IT\Tugas Kuliah\PBO\pbo-new-fix\obj\Debug\net8.0\pbo-new-fix.GeneratedMSBuildEditorConfig.editorconfig
+C:\ChieJuwonsFx\VSC IT\Tugas Kuliah\PBO\pbo-new-fix\obj\Debug\net8.0\pbo-new-fix.AssemblyInfoInputs.cache
+C:\ChieJuwonsFx\VSC IT\Tugas Kuliah\PBO\pbo-new-fix\obj\Debug\net8.0\pbo-new-fix.AssemblyInfo.cs
+C:\ChieJuwonsFx\VSC IT\Tugas Kuliah\PBO\pbo-new-fix\obj\Debug\net8.0\pbo-new-fix.csproj.CoreCompileInputs.cache
+C:\ChieJuwonsFx\VSC IT\Tugas Kuliah\PBO\pbo-new-fix\obj\Debug\net8.0\pbo-new-fix.dll
+C:\ChieJuwonsFx\VSC IT\Tugas Kuliah\PBO\pbo-new-fix\obj\Debug\net8.0\refint\pbo-new-fix.dll
+C:\ChieJuwonsFx\VSC IT\Tugas Kuliah\PBO\pbo-new-fix\obj\Debug\net8.0\pbo-new-fix.pdb
+C:\ChieJuwonsFx\VSC IT\Tugas Kuliah\PBO\pbo-new-fix\obj\Debug\net8.0\pbo-new-fix.genruntimeconfig.cache
+C:\ChieJuwonsFx\VSC IT\Tugas Kuliah\PBO\pbo-new-fix\obj\Debug\net8.0\ref\pbo-new-fix.dll

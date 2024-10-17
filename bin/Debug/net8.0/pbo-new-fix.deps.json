@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "pbo-new-fix/1.0.0": {
+        "runtime": {
+          "pbo-new-fix.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "pbo-new-fix/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
